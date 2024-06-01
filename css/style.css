@@ -365,7 +365,8 @@ img {
 }
 
 #footer {
-    margin-right: 120px;
+    display: flex;
+    align-items: baseline;
 }
 
 .footer {
@@ -393,9 +394,4 @@ img {
 
 .footer-span {
     color: #F4F4FD
-}
-
-.footer-container {
-    display: flex;
-    align-items: baseline;
 }
