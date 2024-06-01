@@ -364,10 +364,7 @@ img {
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-#footer {
-    display: flex;
-    align-items: baseline;
-}
+
 
 .footer {
     background-color: #2e2f42;
@@ -394,4 +391,9 @@ img {
 
 .footer-span {
     color: #F4F4FD
+}
+
+.footer-container {
+    display: flex;
+    align-items: baseline;
 }
